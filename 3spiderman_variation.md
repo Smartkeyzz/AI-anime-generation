@@ -3,19 +3,20 @@ Spider-Man can feel completely different depending on the scene he is placed in.
 
 Inspired by Spider-Man: Brand New Day, I wanted to explore these visual differences by creating three cinematic Spider-Man scenes rather than another standard character illustration.
 
-For this workflow, I used PixAI Studio with Tsubaki.3, keeping the same basic Spider-Man direction while changing key elements such as the setting, action, camera angle, lighting, and atmosphere for each variation.
+For this workflow, I used [PixAI Studio](https://eap.pixai.art/go/rhoda2) with [Tsubaki.3](https://blog.pixai.art/en/tsubaki-3-alpha-showcase/), keeping the same basic Spider-Man direction while changing key elements such as the setting, action, camera angle, lighting, and atmosphere for each variation.
 
 The result is three distinct cinematic concepts: a dramatic rooftop scene at night, an action-packed web-swinging sequence in the rain, and a warmer sunrise scene inspired by the idea of a “brand new day.”
 
 ## Set Up a Simple Cinematic Scene Workflow in PixAI Studio
-I started by opening PixAI Studio and creating a new workspace for the project. Keeping the entire workflow in one workspace made it easier to build the different Spider-Man scenes from the same starting point and compare the results afterward.
+I started by opening [PixAI Studio](https://eap.pixai.art/go/rhoda2) and creating a new workspace for the project. Keeping the entire workflow in one workspace made it easier to build the different Spider-Man scenes from the same starting point and compare the results afterward.
 
 I used Tsubaki.3 as the generation model throughout the process. Rather than switching between different models for each scene, I kept the model consistent and focused on adjusting the prompts.
 
 The main elements I changed were the composition, action, camera angle, lighting, and atmosphere. This made it possible to create noticeably different cinematic scenes while maintaining a consistent Spider-Man concept.
 
 The workflow was intentionally simple. I first generated a basic Spider-Man image to establish the character direction. Then, I created separate Image Nodes for the three variations: the night rooftop, rainy web-swinging, and sunrise scenes.
-For images refer to: https://substackcdn.com/image/fetch/$s_!4Tey!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27d2cb3b-0517-4fe4-86fe-e6aea78b8279_768x1280.png
+For images refer to [substack](https://substackcdn.com/image/fetch/$s_!4Tey!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27d2cb3b-0517-4fe4-86fe-e6aea78b8279_768x1280.png)
+
 Keeping all four generations in the same workspace made the process easier to manage without requiring a complicated node setup.
 
 ## Start with One Basic Spider-Man Direction
@@ -107,9 +108,9 @@ Creating cinematic Spider-Man scenes doesn’t require an overly complicated wor
 
 The night rooftop scene created a dramatic hero moment, the rainy web-swinging scene brought movement and intensity, while the Brand New Day sunrise scene introduced a warmer and more hopeful mood.
 
-If you want to experiment further, try applying the same approach to your own cinematic ideas in PixAI Studio. A different location, weather condition, camera angle, or time of day can completely change the story your image communicates.
+If you want to experiment further, try applying the same approach to your own cinematic ideas in [PixAI Studio](https://blog.pixai.art/en/pixai-studio-the-ultimate-all-in-one-anime-creation-workspace/). A different location, weather condition, camera angle, or time of day can completely change the story your image communicates.
 
-You can also create your own scenes and share your results with the PixAI Community Contest.
+You can also create your own scenes and share your results with the [PixAI Community Contest](https://pixai.art/en/contest).
 
 ## Final Thoughts
 Creating these three Spider-Man scenes showed how much a cinematic image can change without changing the core character direction. By adjusting the environment, lighting, camera angle, action, and atmosphere, I was able to create three distinct moments with completely different moods.
