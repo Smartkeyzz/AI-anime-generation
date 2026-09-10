@@ -2,7 +2,7 @@
 
 What happens if you treat an AI-generated album cover as the beginning of a character project rather than the final image?
 
-For this experiment, I used PixAI Studio to turn one original anime character into a small music debut package. Instead of generating a standalone cover and stopping there, I reused the same OC across three existing Studio workflows to create an official profile, album artwork and release campaign, and simple character merch. 
+For this experiment, I used [PixAI Studio](https://eap.pixai.art/go/rhoda2) to turn one original anime character into a small music debut package. Instead of generating a standalone cover and stopping there, I reused the same OC across three existing [Studio workflows](https://blog.pixai.art/en/how-to-use-pixai-studio-from-character-photoshoots-to-ai-animation-10-templates-you-can-clone-instantly/) to create an official profile, album artwork and release campaign, and simple character merch. 
 
 The main focus was still the album artwork. What I wanted to test was whether I could use an **AI album cover generator workflow** while keeping the same character recognizable across several very different outputs.
 
@@ -16,7 +16,7 @@ For the test, I created a futuristic synth-pop character called **Synth Luna** a
 
 ## Start With One Character and a Clear Album Direction
 
-Before cloning any PixAI Studio workflow, I created the character that would connect the entire project.
+Before cloning any [PixAI Studio workflow](https://blog.pixai.art/en/pixai-studio-the-ultimate-all-in-one-anime-creation-workspace/), I created the character that would connect the entire project.
 
 I wanted the OC to have enough recognizable details to survive multiple generations without making her design unnecessarily complicated.
 
@@ -44,7 +44,7 @@ Defining this first made the later workflow changes much easier because every vi
 
 ## Step 1: Build the Official Profile With Official Debut
 
-The first PixAI Studio workflow I used was **Official Debut — Character ID Photos**.
+The first PixAI Studio workflow I used was **[Official Debut](https://blog.pixai.art/en/how-to-use-pixai-studio-from-character-photoshoots-to-ai-animation-10-templates-you-can-clone-instantly/#:~:text=Character%20ID%20Photos%20%7C%20Give%20Your%20Character%20an%20%E2%80%9COfficial%20Debut%20Shot%E2%80%9D) — Character ID Photos**.
 
 Rather than creating a new workflow, I cloned the existing template and replaced its sample character with Synth Luna.
 
@@ -68,7 +68,7 @@ If the character changed dramatically during the album-generation stage, I would
 
 ## Step 2: Create the Anime Album Release With Unplayed Melody
 
-The main part of the project used **Unplayed Melody — Album Release Poster**.
+The main part of the project used **[Unplayed Melody](https://blog.pixai.art/en/how-to-use-pixai-studio-from-character-photoshoots-to-ai-animation-10-templates-you-can-clone-instantly/#:~:text=Album%20Release%20Poster%20%7C%20Launch%20a%20Favorite%20Character%E2%80%99s%20Music%20Debut) — Album Release Poster**.
 
 This was where the character moved from a straightforward profile into a complete music-release concept. 
 
@@ -129,7 +129,7 @@ The two outputs together worked better than trying to force every idea into one 
 
 ## Step 3: Turn the Same Character Into Debut Merch
 
-Once the album artwork was finished, I moved to **Come Closer — Die-Cut Sticker Sheet**.
+Once the album artwork was finished, I moved to **[Come Closer](https://blog.pixai.art/en/how-to-use-pixai-studio-from-character-photoshoots-to-ai-animation-10-templates-you-can-clone-instantly/#:~:text=Die%2DCut%20Sticker%20Sheet%20%7C%20Turn%20a%20Favorite%20Character%20Into%20Your%20Own%20Stickers) — Die-Cut Sticker Sheet**.
 
 This part of the project was deliberately simpler.
 
