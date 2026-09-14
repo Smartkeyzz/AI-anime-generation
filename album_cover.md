@@ -137,13 +137,13 @@ The goal was not to build an entire merchandise collection. I only wanted to see
 
 I cloned the Come Closer template and again replaced its original character with Synth Luna.
 
-![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/fcrc25inuq1d70jewwen.jpg)
+![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/8i2s3gly3a8zum2qmief.jpg)
 
 For the prompt, I kept the same black, silver, lavender, and violet direction and emphasized moon, star, music, and synth-inspired elements.
 
 The resulting sheet included different versions of the character, including a full-body performance pose, a chibi-style interpretation, expressive portraits, and smaller music and celestial symbols. 
 
-![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/fcrc25inuq1d70jewwen.jpg)
+![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/6smh6t03d2mvgmg33iad.png)
 
 This output felt different from the album art, but it did not feel disconnected.
 
