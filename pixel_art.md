@@ -6,13 +6,13 @@ The model also needs clues about the visual treatment you want: blocky shapes, s
 
 ![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/2kc9gsbpc134o0b00dhk.png)
 
-In this tutorial, I’ll use **Tsubaki.3 on [PixAI](https://eap.pixai.art/go/rhoda2)** to create a full-body pixel-style character from text. I’ll start with a reusable prompt template, compare it with a much simpler prompt, and then adjust the wording to see how far the model can be pushed toward a more traditional retro-game appearance.
+In this tutorial, I’ll use **Tsubaki.3 on [PixAI](https://eap.pixai.art/go/rhoda)** to create a full-body pixel-style character from text. I’ll start with a reusable prompt template, compare it with a much simpler prompt, and then adjust the wording to see how far the model can be pushed toward a more traditional retro-game appearance.
 
 The goal here is **pixel-style character illustration**, not a technically prepared game sprite. If you need an exact sprite resolution, transparent background, animation sheet, or tile-ready asset, additional editing may still be necessary. 
 
 ## Step 1: Select Tsubaki.3
 
-Open [PixAI's image generation interface](https://eap.pixai.art/go/rhoda2) and select **Tsubaki.3** as the model.
+Open [PixAI's image generation interface](https://eap.pixai.art/go/rhoda) and select **Tsubaki.3** as the model.
 
 For this experiment, I kept the generation setup simple because I wanted the prompt wording to do most of the work.
 
